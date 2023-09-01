@@ -1,0 +1,10 @@
+# 整合mybatis
+- 导入jar包
+  - junit
+  - mybatis
+  - mysql
+  - spring相关
+  - aop织入
+  - mybatis-spring
+- 编写配置文件
+- 测试
