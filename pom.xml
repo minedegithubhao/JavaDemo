@@ -15,6 +15,7 @@
         <module>myProxyDmo</module>
         <module>aopDemo</module>
         <module>spring-06-mybatis</module>
+        <module>spring-transcation</module>
     </modules>
 
     <properties>
