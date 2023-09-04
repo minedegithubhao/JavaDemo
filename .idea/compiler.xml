@@ -17,7 +17,13 @@
         <module name="myProxyDmo" />
         <module name="spring-di-03" />
         <module name="demo" />
+        <module name="spring-Profiles" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotion-demo" target="18" />
+      <module name="demo" target="18" />
+      <module name="demo2_auto" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
